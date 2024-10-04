@@ -78,6 +78,7 @@ def main():
     with st.sidebar:
         st.title("RAG Chatbot")
         st.markdown("---")
+        st.markdown("Developed by [nakjun](https://github.com/nakjun)")
         embedding_option = st.selectbox("임베딩 모델 선택", ("large", "small"))
         uploaded_file = st.file_uploader("PDF 파일을 업로드하세요", type="pdf")
 
