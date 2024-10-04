@@ -1,0 +1,7 @@
+streamlit==1.31.1
+langchain-openai==0.0.8
+faiss-cpu==1.7.4
+PyMuPDF==1.24.0
+torch==2.2.1
+tiktoken==0.6.0
+python-dotenv==1.0.0
