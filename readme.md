@@ -2,6 +2,9 @@
 
 이 프로젝트는 PDF 문서를 기반으로 한 간단한 RAG (Retrieval-Augmented Generation) 챗봇 애플리케이션입니다.
 
+## Demo
+https://simple-rag-chatbot.streamlit.app/
+
 ## 주요 기능
 
 - PDF 파일 업로드 및 처리
