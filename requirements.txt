@@ -1,4 +1,5 @@
-streamlit
+streamlit==1.37.0
+langchain
 langchain-openai
 faiss-cpu
 PyMuPDF
