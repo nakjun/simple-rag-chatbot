@@ -1,6 +1,7 @@
 streamlit==1.37.0
 langchain
 langchain-openai
+langchain-community
 faiss-cpu
 PyMuPDF
 torch
