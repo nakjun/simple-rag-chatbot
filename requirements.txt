@@ -7,3 +7,4 @@ PyMuPDF
 torch
 tiktoken
 python-dotenv
+pdfplumber
